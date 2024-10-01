@@ -1,0 +1,4 @@
+v0.2
+-Uninstallation new method introduced
+-Fixed icon bugs
+-Updated texts
