@@ -1,0 +1,16 @@
+v0.3
+-Changed the GUI object positioning from 'grid system' using columns and rows to 'place system' using x and y
+-Renamed from 'Mod Installer' to 'Mod Manager'
+-Added option to delete existing backup
+-Added option to launch FS
+-Added 'Help' option
+-Added 'Installed Mods' section which shows what mods are currently installed
+-Added 'Refresh' function and button
+-Changed the uninstall method for modders slightly (read 'instructions_readme.txt or the documentation)
+-Slightly changed the license
+-Changes in the 'instructions_readme' file accordingly.
+
+v0.2
+-Uninstallation new method introduced
+-Fixed icon bugs
+-Updated texts
